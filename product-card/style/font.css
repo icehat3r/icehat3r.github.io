@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'Oswald-Bold';
+    src:url('../fonts/oswald/Oswald-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open-sans-bold_[allfont.ru]';
+    src:url('../fonts/open-sans-bold_[allfont.ru].ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: '2209';
+    src:url('../fonts/2209.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src:url('../fonts/OpenSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
