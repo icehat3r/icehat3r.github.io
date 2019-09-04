@@ -1,0 +1,45 @@
+@media screen and (max-device-width: 761px) {
+    .logo {
+        margin:0;
+    }
+    .project-name {
+        flex-wrap: nowrap;
+    }
+}
+@media screen and (max-device-width: 589px) {
+  .head-line  {
+      display:flex;
+      justify-content: center;
+  }
+  .project {
+      margin-top:0;
+  }
+  .project-info {
+      display:flex;
+      justify-content: space-between;
+  }
+}
+@media screen and (max-device-width: 380px) {
+    .project-start {
+        display: none;
+    }
+    .project-name {
+        margin:auto;
+    }
+}
+@media screen and (max-device-width: 437px) {
+    .date form {
+        display:none;
+    }
+
+}
+@media screen and (max-device-width: 876px) {
+    .gallery {
+        display: flex;
+        justify-content: center;
+        
+    }
+    .block {
+        margin:30px;
+    }
+}

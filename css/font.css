@@ -1,0 +1,46 @@
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(../fonts/HelveticaNeue/HelveticaNeue.eot) format("embedded-opentype"); 
+    src: url(../fonts/HelveticaNeue/HelveticaNeue.ttf) format("truetype");
+    src: url(../fonts/HelveticaNeue/HelveticaNeue.woff) format("woff");
+    font-style: normal; 
+    font-weight: normal;
+}
+@font-face {
+    font-family: HelveticaNeue Bold;
+    src: url(../fonts/HelveticaNeue/HelveticaNeue-Bold.eot) format("embedded-opentype"); 
+    src: url(../fonts/HelveticaNeue/HelveticaNeue-Bold.ttf) format("truetype");
+    src: url(../fonts/HelveticaNeue/HelveticaNeue-Bold.woff) format("woff");
+    font-style: normal; 
+    font-weight: normal;
+}
+@font-face {
+    font-family: MyriadPro;
+    src: url(../fonts/MyriadPro/MyriadPro-Regular.eot) format("embedded-opentype"); 
+    src: url(../fonts/MyriadPro/MyriadPro-Regular.ttf) format("truetype");
+    src: url(../fonts/MyriadPro/MyriadPro-Regular.woff) format("woff");
+    font-style: normal; 
+    font-weight: normal;
+}
+@font-face {
+    font-family: Proximanova;
+    src: url(../fonts/ProximaNova/ProximaNova-Regular.eot) format("embedded-opentype"); 
+    src: url(../fonts/ProximaNova/ProximaNova-Regular.ttf) format("truetype");
+    src: url(../fonts/ProximaNova/ProximaNova-Regular.woff) format("woff");
+    font-style: normal; 
+    font-weight: normal;
+}
+@font-face {
+    font-family: Proximanova Semi;
+    src: url(../fonts/ProximaNova/ProximaNova-Semibold.eot) format("embedded-opentype"); 
+    src: url(../fonts/ProximaNova/ProximaNova-Semibold.ttf) format("truetype");
+    src: url(../fonts/ProximaNova/ProximaNova-Semibold.woff) format("woff");
+    font-style: normal; 
+    font-weight: normal;
+}
+@font-face {
+    font-family: Tahoma;
+    src: url(../fonts/Tahoma/Tahoma.ttf) format("truetype");
+    font-style: normal; 
+    font-weight: normal;
+}
